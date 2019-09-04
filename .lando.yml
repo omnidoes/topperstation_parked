@@ -1,0 +1,4 @@
+name: topperstation-parked
+recipe: lamp
+config:
+  webroot: .
